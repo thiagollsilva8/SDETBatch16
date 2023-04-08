@@ -7,15 +7,15 @@ import java.util.Scanner;
 is needed. If loan is less or equal to 200,000 then you would lend the money
 otherwise you would reject the client.
  */
-public class homeWork2 {
+public class Class4Homework2 {
     public static void main(String[] args) {
         Scanner myscan = new Scanner(System.in);
         System.out.println("Please enter the amount of loan needed");
         double loanAmount = myscan.nextDouble();
 
-        if(loanAmount <= 200000){
+        if (loanAmount <= 200000) {
             System.out.println("Loan approved!");
-        }else {
+        } else {
             System.out.println("Loan rejected!");
         }
     }

@@ -1,11 +1,12 @@
 package Class7;
 
-public class homework3 {
+public class Class7Homework2 {
 
     public static void main(String[] args) {
 
-        for (int i = 21; i <= 49 ; i += 2) {
+        for (int i = 20; i >= 1 ; i -= 2) {
             System.out.print(i+" ");
+
         }
     }
 }

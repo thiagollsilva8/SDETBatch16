@@ -1,0 +1,6 @@
+Arrays:
+    Arrays are collection of items. We can store primitive and non-primitive data inside arrays.
+
+Why should we learn about arrays?
+    1. They help us manage large amounts of data efficiently.
+    2.

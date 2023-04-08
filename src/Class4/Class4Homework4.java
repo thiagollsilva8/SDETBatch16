@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 /*
 4)Create a Java program that will ask user to input city and temperature.
-Your program should convert Fahrenheit into celsius and print “The temperature is __
+Your program should convert Fahrenheit into Celsius and print “The temperature is __
 the city is __”
  */
-public class homeWork4 {
+public class Class4Homework4 {
     public static void main(String[] args) {
 
         Scanner myscan = new Scanner(System.in);
@@ -15,8 +15,8 @@ public class homeWork4 {
         String city = myscan.nextLine();
         System.out.println("What is the temperature?");
         double temperatureFarenheit = myscan.nextDouble();
-        double temperatureCelsius = (temperatureFarenheit - 32) * 5/9;
+        double temperatureCelsius = (temperatureFarenheit - 32) * 5 / 9;
 
-        System.out.println("The temperature is "+temperatureCelsius+" , and the city is "+city);
+        System.out.println("The temperature is " + temperatureCelsius + " , and the city is " + city);
     }
 }
