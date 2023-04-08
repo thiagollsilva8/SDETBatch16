@@ -17,7 +17,10 @@ public class E1Arrays {
          */
 
         String [] names = {"Jacob", "David", "Salomon"};
+        // all the elements that we store in an array are assigned
+        //
 
         System.out.println(names[0]);
+        System.out.println(names[2]);
     }
 }

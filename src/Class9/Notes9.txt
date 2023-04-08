@@ -3,4 +3,12 @@ Arrays:
 
 Why should we learn about arrays?
     1. They help us manage large amounts of data efficiently.
-    2.
+    2. We can process the data stored in arrays using loops
+
+Syntax:
+    datatype [] variable = {element1, element2, element3, ...};
+
+Shortcuts:
+    1. After the array type: iter and intellij will write a enhanced for loop for you
+    2. We can place the cursor on the for loop and click on the bulb icon to change
+    one loop with anither one
