@@ -1,7 +1,8 @@
 package Class9;
 
 /*
-Create an array of animals and store 5 elements into it. Using 2 different loops print all elements from the array.
+Create an array of animals and store 5 elements into it.
+Using 2 different loops print all elements from the array.
  */
 public class homework5Class9 {
 
