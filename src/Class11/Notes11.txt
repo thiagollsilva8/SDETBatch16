@@ -1,0 +1,31 @@
+What are 2D arrays:
+    2D arrays are collection of 1D arrays. That we can use to store data in the form of
+    rows and columns just like we have in excel files in the form of tables on webpages.
+
+Syntax:
+    Approach 1;
+    Data types [][] variableName = new data types [size of rows][size of columns];
+
+    Approach 2:
+    Data types [][] variableName = {{element 1, element 2, element 3};
+                                    {element 4, element 5, element 6}
+                                    };
+==========================================================================================
+Object oriented programming:
+    Object oriented programming also known as OOPs is nothing but some set of rules
+    that if we follow we will have the below benefits: There are five main concepts that we
+    will be learning
+    (1. Classes and objects, 2. Inheritance, 3. Polymorphism, 4. Abstraction, 5. Encapsulation)
+
+    1. Code will be organized.
+    2. Code repetition will be minimized.
+    3. Changing the code will become easier.
+    4. It will become easier to write code by multiple team members.
+    5. Security of your application will increase.
+    6. Writing code for larger applications will become easier.
+    7. It will help us represent the world around us easily.
+
+Task1: Shows how OOPs will help us organize the code
+Write a java program to store below information for 5 students
+1)name 2)Id 3)age 4)grade 5)weight
+
