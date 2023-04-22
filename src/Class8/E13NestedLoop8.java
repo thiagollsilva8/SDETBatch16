@@ -1,7 +1,5 @@
 package Class8;
 
-import java.net.SocketTimeoutException;
-
 public class E13NestedLoop8 {
 
     public static void main(String[] args) {
