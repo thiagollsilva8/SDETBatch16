@@ -1,14 +1,51 @@
 Arrays:
+
     Arrays are collection of items. We can store primitive and non-primitive data inside arrays.
 
 Why should we learn about arrays?
+
     1. They help us manage large amounts of data efficiently.
+
     2. We can process the data stored in arrays using loops
 
 Syntax:
-    datatype [] variable = {element1, element2, element3, ...};
+    We have two ways of creating the arrays
+
+    1. datatype [] variable = {element1, element2, element3, ...};
+       example: int[] number = {10, 20, 60};
+
+    2. Datatype[] name = new datatype[sizeof array];
+       example: int[] numbers = new int[5];
+
+Enhanced For Loop:
+
+    It's another type of loop that we can use with data structures, it automatically picks the items
+    from the array and prints them one by one in each iteration.
+
+Why should we use Enhanced?
+
+    1. It is a cleaner code
+
+    2. It is easier to understand
+
+Syntax:
+
+    for (datatype variable : arrayName) {
+
+    }
+
+Limitations of the Enhanced for loop;
+
+    1. There is no index which means we will always get the data in the sequence,
+    it is present in the array
+
+    2. We cannot print the items in reverse order
+
+    3. We also cannot update values
 
 Shortcuts:
-    1. After the array type: iter and intellij will write a enhanced for loop for you
+
+    1. After the array type: 'iter' and intellij will write a enhanced for loop for you
+
     2. We can place the cursor on the for loop and click on the bulb icon to change
-    one loop with anither one
+    one loop with another one
