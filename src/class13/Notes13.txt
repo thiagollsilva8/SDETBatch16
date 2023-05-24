@@ -1,0 +1,25 @@
+Class:
+    A class is a template or a blueprint out of which objects are created.
+
+Why should we use classes:
+    1. They help us organize our code.
+    2. Represent real life entities in code.
+    3. Classes help us write code that makes it easy to reuse code.
+
+Syntax
+class ClassName {
+define field/properties/attributes here
+define methods here
+
+}
+Some very famous classes in java:
+1. String
+
+==============================================================================
+Q1. build a program that does waste a lot of memory. It's ok if it is a little slow String.
+Q2. build a program that is as fast as possible. It's ok if it takes a little more time.
+StringBuilder
+
+Method:
+    Method is a block of code that contains java code which is executed when we call that
+    method. In java methods can only exist inside classes.
