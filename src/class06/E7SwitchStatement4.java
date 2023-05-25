@@ -1,0 +1,15 @@
+package class06;
+
+public class E7SwitchStatement4 {
+
+    public static void main(String[] args) {
+
+        int num = 1;
+
+        while (num < 5) {
+            System.out.println("Batch 16 is great");
+            num++;
+        }
+
+    }
+}
