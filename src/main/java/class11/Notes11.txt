@@ -21,7 +21,7 @@ Object oriented programming:
     2. Code repetition will be minimized.
     3. Changing the code will become easier.
     4. It will become easier to write code by multiple team members.
-    5. Security of your application will increase.
+    5. The Security of your application will increase.
     6. Writing code for larger applications will become easier.
     7. It will help us represent the world around us easily.
 

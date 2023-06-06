@@ -19,6 +19,6 @@ Note:
 
 How to we know if we should go with instance or static methods?
 
-    Whenever we are suing instance variables in a method we must go with instance
-    methods. however if you are not using any instance variables you should go
+    Whenever we are suing instance variables in a method, we must go with instance
+    methods. however, if you are not using any instance variables, you should go
     with static.

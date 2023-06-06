@@ -14,9 +14,9 @@ public class E4ConfigFiles {
         System.out.println(System.getProperty("user.dir"));
 
         String path=System.getProperty("user.dir")+"\\"+"Files\\Config.properties";
-        System.out.println(Constants.ConfigReaderPath);
+        System.out.println(Constants.CONFIG_READER_PATH);
 
-        FileInputStream fileInputStream=new FileInputStream(Constants.ConfigReaderPath);
+        FileInputStream fileInputStream=new FileInputStream(Constants.CONFIG_READER_PATH);
 
         // That special class which knows how this file works
         Properties properties=new Properties();

@@ -1,7 +1,6 @@
 1) Create a method that will find a number from an array.
 2) Create a method to get the average of numbers from an array.
-3) Create a method that will Count the how many times the number is.
-appearing in an array.
+3) Create a method that will Count how many times the number is appearing in an array.
 
 if else
 loops Nested loop
@@ -41,7 +40,7 @@ public static int findIndexOfNumber(int[] arr,int target) {
         return -1;
     }
 
-    // break till 2PM
+
 
 ==========================
 public double averageFromArray(int[] arr) {

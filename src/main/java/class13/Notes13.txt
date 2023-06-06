@@ -22,4 +22,4 @@ StringBuilder
 
 Method:
     Method is a block of code that contains java code which is executed when we call that
-    method. In java methods can only exist inside classes.
+    method. In java, methods can only exist inside classes.
